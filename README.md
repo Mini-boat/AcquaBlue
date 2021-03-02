@@ -1,2 +1,3 @@
 # Mini Boat
- Repositório projeto open-source Mini-Boat
+ 
+ Open-source Mini-boat project
