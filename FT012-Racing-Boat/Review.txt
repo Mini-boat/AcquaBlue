@@ -1,0 +1,129 @@
+
+
+This report summarizes the specifications of the RC boat FT012 and it's first tests on a pool
+
+
+	Specifications:
+
+		-Single-hull Boat 
+
+			-top cover and middle (Waterproof) cover.
+			-Presence of turn fins on both sides to facilitate steering at high speeds.
+		
+		-Powered by a 11.1V 1800mAh Li-po battery 
+
+			-Battery charged by a 15V 800mA charger.
+			-Balance charger connected between the charger and the battery.
+			-Over 6 minutes o operation at full throttle.
+
+		-Water cooling system for de DC motor and the Electronic Speed Controller (ESC)
+
+			-Although the boat is advertised as waterproof, after the first pool tests, it was observed
+			that there was water on the inside of the vessel, even after operating with closed covers.
+			
+			- The presence of a drain hole on the stern of the boat indicates that, altough the inner
+			components may be waterproof, the hull itself is prone to water infiltration, even with the
+			waterproof middle cover.
+		
+		-Length: 467mm / Width: 127mm / Height: 128mm
+
+		-Single propeller; powered by a 3500Kv DC Brushless Motor and connected through a shaft.
+			
+			-Kv rate is the number of revolutions per minute of the motor when applied a voltage of 1 
+			(without any load).
+			-Not to be confused with Kilovolt(kV)
+			-Ex: Boat battery at full charge (12.1 VDC)
+			     3500(Kv) * 12.1(V) = 42,350 (Máx RPM)
+
+
+		-Steering of the boat by the rudder; Rudder connected to a servo (Unknown specifications) 
+		through a solid metal bar.
+
+		- No information is given about the ESC.
+			
+			-ESC wraped in water-proofing material
+			-DC brushless motor and servo motor connected to the ESC
+			-ESC must have an integrated radio receiver for intercepting signals sent by the Controller
+
+		-Radio controller of 2.4 GHz
+
+			-Powered  by 6 AA batteries (9V).
+			-Advertised signal reach of approximately 150 meters.
+			-Commands the boat through radio signals (Transmitter).
+			-Steering throuh the direction Knob.
+			-Throttle control through the trigger.
+
+			-Other features:
+
+				-On/Off switch.
+				-Power Indicator (Red LED).
+				-Frequency Matching Indicator (Green LED).
+				-Directional fine ajustment knob for the rudder.
+				-Servo adjustment Knob (rudder offset).
+					*Used for adjustments in steering due to wind interference.
+
+		-Additional components
+
+			-2 extra propellers
+			-2 anti-colision boat sleeves
+			-Motor-Shaft coupler lubricant
+			-2 extra coupler screws
+			-1 Allen Key for coupler screws
+			-1 wrench
+
+	Step-by-step guide for operation
+
+		*For the first time operating the boat, it is recommended to apply the lubricant to the coupler of the 
+		shaft and the Brushless motor
+
+		1° Boat battery
+			-If the battery isn't charged, connect it to the balance charge through the four pin connection.
+			-Connect the balance charger to the charger through the P4 connection.
+			-Connect the charger to the power outlet.
+			-A red and a green LED will lighten, when the battery is fully charged, the red LED will go off.
+				*Do not remove the battery from the charger until the red LED is off.
+			-Open the top and middle covers of the boat by twisting the cover switches to the indicated direction in the hull
+			-Insert the battery in the slot
+			-Connect the battery to the loose two-pins connection plug, paying very close attention to the polarity of the wires
+			-Put the covers back on and close the switches
+
+			*After every operation, recharge the batteries
+			*Do not change or modify the battery or the charger
+			*SAFETY WARNING: the propeller can trigger immediatly after connected to the battery, be carefull to your
+			surroundings when installing the battery
+
+
+		2° Controller Battery
+
+			-Remove the lid on the base of the controller with the aid of a screwdriver
+			-Insert 6 AA batteries (1.5V) in the slots
+			-Close the lid
+
+			*Do not mix new and used batteries on the controller
+
+		3° Operation
+
+			-Install the anti-collision sleeve
+			-Put the boat in the water (close to the controller)
+			-Turn the switch on the controller to ON
+			*Red light atnd blinking green light will turn ON
+			*The green light indicates the connection between the controller and the boat.
+			*When the green LED is ON continuously the connection between boat and controller is established
+			-Make fine ajustments on the offset and sensitivity of the rudder if necessary
+			-Pull the throttle trigger to go foward.
+			-Push the throttle trigger to go in reverse.
+			-Turn the direction knob clockwise to go right
+			-Turn the direction knob anti-clockwise to go left
+
+			*In case of boat flipping over, push the throttle and immediately pull it repeatedly until boat is
+			flipped
+
+	After operation/Inspection/Maintenance
+
+
+		-Remove and recharge the boat battery.
+		-Remove batteries from the controller.
+		-Dry the inside of the boat with a clean and dry with soft cloth.
+		-Add lubricant to the shaft coupler.
+		-Keep the boat off direct sunlight and humidity when not in use.
+
