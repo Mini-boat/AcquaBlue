@@ -14,7 +14,7 @@
 
 ----------------------------------------------------------------------------------------------
 
-	Oceanus - Woods Hole Institue of Technology
+	Oceanus - Woods Hole Institute of Technology
 
 	Sensors that make sense in the sea
 	(An expanding variety of sensors is changing the way we monitor dynamic ocean systems)
