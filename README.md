@@ -1,3 +1,3 @@
-# Mini Boat
+# AquaBlue
  
- Open-source Mini-boat project
+ Open-source AquaBlue project
