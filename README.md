@@ -1,3 +1,3 @@
-# AquaBlue
+# AcquaBlue
  
- Open-source AquaBlue project
+ Open-source AcquaBlue project
