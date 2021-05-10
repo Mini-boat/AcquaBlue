@@ -7,9 +7,17 @@ Open-source AcquaBlue project
     <title>Open-source AcquaBlue project</title>
     </head>
     <body>
-        
+               <div class="container">
+                <div class="row">
+                    <div class="jumbotron-fluid">
+                        <div class="row">
+                            <div class="col">
+                                <h2 class="display-4 my-4">Autonomous solar powered pollution and micro-particulate sensing boat</h2>
+                                <hr class="my-4"> 
+
+                                <div class="col-10 offset-1">
                                     <p>
-The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
+                                        The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
 southern Brazil under tremendous pressure. Macro and micro-scale pollution, industrial contaminants and 
 increased volumes of litter are the key challenges facing the local communities around the Lagoa dos Patos 
 (Duck Lagoon). At a macro scale, drinkable water is sourced from the Duck Lagoon to supply millions of 
@@ -20,19 +28,41 @@ thousands of people in the coastal local communities who depend on these natural
 out of fishing and farming activities.
     
                                     </p>
+                                  
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>     
+                </div>
+            </div>
+               
+           <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col">
+                        <h5 class="display-5 text-center" ></h5>
+                        <hr style="width: 30%">
+                        <div class="offset-2">
+                            <p id="#data_i">
+                                    The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
+southern Brazil under tremendous pressure. Macro and micro-scale pollution, industrial contaminants and 
+increased volumes of litter are the key challenges facing the local communities around the Lagoa dos Patos 
+(Duck Lagoon). At a macro scale, drinkable water is sourced from the Duck Lagoon to supply millions of 
+households in many cities in the region. The ability to monitor chemical and micro-particle pollutants in bodies 
+of water is key to being able to quantify the severity of the problem and create tailored interventions to reduce 
+the amount of pollutants. Environmental monitoring has tangible social welfare and economic benefits to 
+thousands of people in the coastal local communities who depend on these natural resources to make a living 
+out of fishing and farming activities.
+                                </p>
+                            </i> 
+                            
+                        </div>                      
+                    </div>             
+                </div>
+            </div> 
+
                                     
-                                    <p>
-This interdisciplinary challenge-based project will focus on developing a low-cost autonomous solar powered 
-pollution and micro-particulate sensing boat that has advanced A.I-based navigation and tracking capabilities. 
-The ability to measure water parameters and pollutants in real time can give a much clearer picture of local 
-challenges and patterns than manual coastal water quality surveys can achieve, enabling more advanced 
-modeling, interventions and policies to be developed on the back of the resulting data. By making the boat 
-autonomous and solar powered, we reduce the operational costs of monitoring and enable larger areas to be 
-canvased with minimal intervention. We aim to co-develop with the local community an initial prototype of the 
-autonomous boat that can measure and transmit live water parameters and pollution data while following 
-canvasing patterns and locating areas of high pollution. The long-term vision is to empower communities in 
-DAC countries with swarms of interconnected low-cost sensing and actuator boat technologies for water 
-quality monitoring and restoration.
+
                                     </ul>
                                     </p>
                                 </div>
@@ -53,30 +83,28 @@ quality monitoring and restoration.
                         <hr style="width: 30%">
 
                         <div class="col">
-                            <div class="media my-5">
-                     
+                            
                                 <div class="media-body">
-                                    <h3 id="nome_org">Marcelo Pias</h3>
+                                    <h3 id="nome_org">marcelo pias</h3>
                                     <h5>Universidade Federal do Rio Grande – FURG</h5>
                                     <p class="d-none d-md-block" id="desc">
-                                        vou colocar texto professor aqui
+                                        texto
                                     </p>
                                 </div>
                             </div>
 
-                            <div class="media my-5">
-                        
+                            
+
                                 <div class="media-body">
-                                    <h3 id="nome_org">Jorge Arigony</h3>
+                                    <h3 id="nome_org">jorge arigony</h3>
                                     <h5>Universidade Federal do Rio Grande – FURG</h5>
                                     <p class="d-none d-md-block" id="desc">
-                                       colocar texto professor aqui
+                                        textoo
                                     </p>
                                 </div>
                             </div>
 
-                            <div class="media my-5">
-                                
+                            
                                 <div class="media-body">
                                     <h3 id="nome_org">Vinícius Menezes de Oliveira</h3>
                                     <h5>Universidade Federal do Rio Grande – FURG</h5>
@@ -93,5 +121,9 @@ quality monitoring and restoration.
 
                         </div>
                         
-   <!--                    
+   <!--                     <div class="offset-2"><i class="fa fa-arrow-right"> Mais informações em breve</i> </div> --> 
+                    </div>             
+                </div>
+            </div> 
+               </body>
 </html>
