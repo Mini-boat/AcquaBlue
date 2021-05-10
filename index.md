@@ -2,12 +2,11 @@
 ## **Open-source AcquaBlue project**
 
 <a align="center">
-  <img src="https://user-images.githubusercontent.com/61555769/117688987-b3358180-b18f-11eb-8fa8-e2c135b74ae5.png" alt="ACQUABLUE">
+  <img src="https://user-images.githubusercontent.com/61555769/117688987-b3358180-b18f-11eb-8fa8-e2c135b74ae5.png" =100x20>
 </a>
 
   
-####
- <br/> The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
+<br/> The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
 southern Brazil under tremendous pressure. Macro and micro-scale pollution, industrial contaminants and 
 increased volumes of litter are the key challenges facing the local communities around the Lagoa dos Patos 
 (Duck Lagoon). At a macro scale, drinkable water is sourced from the Duck Lagoon to supply millions of 
