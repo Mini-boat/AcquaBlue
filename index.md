@@ -7,57 +7,7 @@ Open-source AcquaBlue project
     <title>Open-source AcquaBlue project</title>
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <a class="navbar-brand" href="#">SBAI 2021</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Início 
-                            <span class="sr-only">(current)</span>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Apresentação</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#datas">Datas Importantes</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#datas">Autores</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#datas">Minicursos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#org">Organização</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
-        <div id="main">
-            <div class="container-fluid">
-                <div class="row justify-content-center">
-                    <div class="col">
-                        <center>
-                            <img src="img/tmp.jpg" class="img-fluid" style="max-width: 100%; height: auto;">
-                        </center>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="jumbotron-fluid">
-                        <div class="row">
-                            <div class="col">
-                                <h2 class="display-4 my-4"></h2>
-                                <hr class="my-4"> 
-
-                                <div class="col-10 offset-1">
+        
                                     <p>
 The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
 southern Brazil under tremendous pressure. Macro and micro-scale pollution, industrial contaminants and 
