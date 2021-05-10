@@ -4,7 +4,7 @@
 <div style="text-align:center">
   <img src="https://user-images.githubusercontent.com/61555769/117688987-b3358180-b18f-11eb-8fa8-e2c135b74ae5.png" width="300">
 </a>
-
+</div>
   
 <br/> The unsustainable pursuit of industrial economic growth has put the marine and coastal ecosystems in 
 southern Brazil under tremendous pressure. Macro and micro-scale pollution, industrial contaminants and 
